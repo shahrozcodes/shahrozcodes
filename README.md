@@ -1,6 +1,11 @@
 # 💫 About Me:
 <br>I am a computer science student at Carleton University with a strong foundation in programming, problem-solving, and building practical software solutions and am currently seeking summer/fall 2026 internship opportunities in order to learn, excel, and grow in my career.<br>
-👨‍💻 I’m currently working on: a Wellness Accountability App (Python, PostgreSQL, SQLAlchemy, Alembic, Docker, FastAPI, plus a React/Next.js UI in progress) to track habit consistency + accountability workflows<br>🌱 I’m currently learning: Machine Learning (regression/classification + practical projects) and improving backend + cloud fundamentals<br><br>🔗 Connect with me on LinkedIn: linkedin.com/in/shahrozmalik <br><br>I am a current 3rd year standing computer Science Honours student studying at Carleton University with a specialization in Machine Learning and Artificial Intelligence and am currently seeking 2026 summer internship opportunities<br><br>FUN FACTS: History buff, I like k-dramas, I like to live an active lifestyle an to workout and try new things (currently looking into getting into Muay Thai after I recover from my injury)
+
+👨‍💻 I’m currently building: a Wellness Accountability App (Python, PostgreSQL, SQLAlchemy, Alembic, Docker, FastAPI, plus a React/Next.js UI in progress) to track habit consistency + accountability workflows<br>
+🌱 I’m currently learning: Machine Learning (regression/classification + practical projects) and improving backend + cloud fundamentals<br><br>
+🔗 Connect with me on LinkedIn: linkedin.com/in/shahrozmalik <br>
+
+FUN FACTS: History buff, I like k-dramas, I like to live an active lifestyle an to workout and try new things (currently looking into getting into Muay Thai after I recover from my injury)
 
 
 ## 🌐 Socials:
