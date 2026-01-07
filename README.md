@@ -4,7 +4,6 @@
 👨‍💻 I’m currently building: a Wellness Accountability App (Python, PostgreSQL, SQLAlchemy, Alembic, Docker, FastAPI, plus a React/Next.js UI in progress) to track habit consistency + accountability workflows<br>
 
 🌱 I’m currently learning: Machine Learning (regression/classification + practical projects) and improving backend + cloud fundamentals<br><br>
-🔗 Connect with me on LinkedIn: linkedin.com/in/shahrozmalik <br>
 
 FUN FACTS: History buff, I like k-dramas, I like to live an active lifestyle an to workout and try new things (currently looking into getting into Muay Thai after I recover from my injury)
 
