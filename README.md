@@ -5,8 +5,7 @@
 
 🌱 I’m currently learning: Machine Learning (regression/classification + practical projects) and improving backend + cloud fundamentals<br><br>
 
-FUN FACTS: History buff, I like k-dramas, I like to live an active lifestyle an to workout and try new things (currently looking into getting into Muay Thai after I recover from my injury)
-
+🏃‍♂️ Outside of coding: into history, K-dramas, and big on staying active (rehabbing right now, Muay Thai soon)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahrozmalik) 
