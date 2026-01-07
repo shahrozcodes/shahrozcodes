@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am a third year computer science student at Carleton University with a strong foundation in programming, problem-solving, and building practical software solutions. <br>
-Currently seeking summer/fall 2026 internship opportunities in order to learn, excel, and grow in my career.<br>
+I am a third year computer science student at Carleton University with a strong foundation in programming, problem-solving, and building practical software solutions.
+
+Currently seeking summer/fall 2026 internship opportunities in order to learn, excel, and grow in my career.
 
 ## 👨‍💻 I’m currently building: 
 A Wellness Accountability App (Python, PostgreSQL, SQLAlchemy, Alembic, Docker, FastAPI, plus a React/Next.js UI in progress) to track habit consistency + accountability workflows
