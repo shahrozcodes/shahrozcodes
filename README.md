@@ -1,9 +1,9 @@
 # 💫 About Me:
 <br>I am a computer science student at Carleton University with a strong foundation in programming, problem-solving, and building practical software solutions and am currently seeking summer/fall 2026 internship opportunities in order to learn, excel, and grow in my career.<br>
 
-👨‍💻 I’m currently building: a Wellness Accountability App (Python, PostgreSQL, SQLAlchemy, Alembic, Docker, FastAPI, plus a React/Next.js UI in progress) to track habit consistency + accountability workflows<br>
+👨‍💻 I’m currently building: a Wellness Accountability App (Python, PostgreSQL, SQLAlchemy, Alembic, Docker, FastAPI, plus a React/Next.js UI in progress) to track habit consistency + accountability workflows
 
-🌱 I’m currently learning: Machine Learning (regression/classification + practical projects) and improving backend + cloud fundamentals<br><br>
+🌱 I’m currently learning: Machine Learning (regression/classification + practical projects) and improving backend + cloud fundamentals
 
 🏃‍♂️ Outside of coding: into history, K-dramas, and big on staying active (rehabbing right now, Muay Thai soon)
 
