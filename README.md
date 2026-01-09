@@ -10,7 +10,7 @@ A Wellness Accountability App (Python, PostgreSQL, SQLAlchemy, Alembic, Docker, 
 Machine Learning (regression/classification + practical projects) and improving backend + cloud fundamentals
 
 ## 🏃‍♂️ Outside of coding: 
-Into history, K-dramas, and big on staying active (rehabbing right now, Muay Thai soon)
+Part time history buff, K-drama fanatic, and big on staying active (rehabbing right now, Muay Thai soon)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shahrozmalik) 
